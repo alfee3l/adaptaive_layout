@@ -6,7 +6,7 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class CustomDrawer extends StatelessWidget {
   const CustomDrawer({super.key});
-  final List<DrawerItemsModel> items = const [
+  static const List<DrawerItemsModel> items =  [
     DrawerItemsModel(title: 'D A S H B O R d', icon: Icons.home),
 
     DrawerItemsModel(title: 'S E T T I N G S', icon: Icons.settings),

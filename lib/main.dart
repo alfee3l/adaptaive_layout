@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(const AdpateiveApp());
 }
-
+  
 class AdpateiveApp extends StatelessWidget {
   const AdpateiveApp({super.key});
 
